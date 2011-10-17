@@ -62,7 +62,7 @@ Gem::Specification.new do |s|
     end
   else
     s.add_dependency(%q<activesupport>, [">= 2.2.2"])
-    s.add_dependency(%q<rspec>, ["~> 2.3.0"])
+    s.add_dependency(%q<rspec>, ["~> 2.6.0"])
     s.add_dependency(%q<fastercsv>, [">= 0"])
     s.add_dependency(%q<jeweler>, ["~> 1.6"])
     s.add_dependency(%q<activerecord>, [">= 2.2.2"])
